@@ -1,0 +1,3 @@
+vim content in file1 
+press esc and :w and enter to save
+press esc and :x and enter to save and  exit
