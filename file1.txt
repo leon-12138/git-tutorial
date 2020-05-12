@@ -1,3 +1,5 @@
-vim content in file1 
+im content in file1 
 press esc and :w and enter to save
 press esc and :x and enter to save and  exit
+
+new branch dev
